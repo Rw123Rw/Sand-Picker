@@ -1,2 +1,5 @@
 # Sand-Picker
-Excel Workbook for Well Logs
+Excel Workbook for Well Logs.
+I am using Excel to look at petroleum well logs, both digital data and image data, to identify possible reservoir sands for oil and gas. Presently I am working with the image version of the workbook because 1). images of the well logs are available from the sate oil and gas websites and 2). you have to get the values of the curves from digitizing the image some how.
+A well log is a recording of the electro-magnetic data from the wellbore, both natural and induced. It is typically printed on paper that is 8.5 inches wide by 1200 inches long (depends on depth of well). It is normally 'fan' folded every 6 inches so that the 'log' ends up as a 8.5" x 6" stack of paper that is 2 inches thick. The well log displays the data at several different scales, 1" = 100', 2" = 100', 5" = 100' for different levels of data. The more complex the data, the bigger the scale. A copy of the log, originally paper - now digital, is sent to the state regulatory agencies where it was scanned and set into the public record.
+These well logs are used to examine both the structural and stratigraphic properties at the position of the wellbore.
